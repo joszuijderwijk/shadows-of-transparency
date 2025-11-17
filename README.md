@@ -1,4 +1,4 @@
-# shadows-of-transparency
+# Shadows of Transparency
 TODO:
-[ ] Write Readme
-[ ] Polish notebook
+- [ ] Write Readme
+- [ ] Polish notebook
