@@ -1,0 +1,19 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Jupyter notebook support
+ipython>=8.12.0
+jupyter>=1.0.0
+notebook>=6.5.0
