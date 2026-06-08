@@ -30,12 +30,11 @@ These three ministries were created in the July 2024 cabinet reorganization and 
 | VRO | Ministerie van Volkshuisvesting en Ruimtelijke Ordening | Ministry of Housing and Spatial Planning |
 | KGG | Ministerie van Klimaat en Groene Groei | Ministry of Climate Policy and Green Growth |
 
-## Notes on naming changes (2024)
+## Notes on naming changes
 
 - The 2024 reorganization spun **Climate Policy and Green Growth (KGG)** off from
   the former Ministry of Economic Affairs and Climate Policy; the economic-affairs
-  remainder reverted to **Economische Zaken (EZ)**. The label **EZK** is retained
-  here because it covers the period analysed in the paper.
+  remainder reverted to **Economische Zaken (EZ)**. In 2026 this was reverted.
 - The Ministry of Agriculture, Nature and Food Quality (**LNV**) was renamed in 2024
   to *Landbouw, Visserij, Voedselzekerheid en Natuur* (Agriculture, Fisheries, Food
-  Security and Nature) abbreviated to LVVN.
+  Security and Nature) abbreviated to **LVVN**.
