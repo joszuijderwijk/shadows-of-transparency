@@ -1,6 +1,6 @@
 # Shadows of Transparency
 
-This repository contains the code and analysis for the paper **"Shadows of Transparency: Assessing Government Transparency Using Public Data"** (in preparation).
+This repository contains the code and analysis for the paper "Shadows of Transparency: Assessing Government Transparency Using Public Data" (preprint)
 
 The work builds on the Woogle dataset and its accompanying notebook [1], analyzing patterns in Dutch Freedom of Information Act (FOIA/Woo) documents. The dataset is available through DANS [2].
 
@@ -108,18 +108,6 @@ Output files include:
 - `exemptions_single_plot.png`
 - `exemptions_ministry_over_time.png`
 
-
-## Troubleshooting
-
-**Memory issues**: If you encounter memory errors, try:
-- Closing other applications
-- Processing data in smaller chunks
-- Using a machine with more RAM
-
-**Missing data files**: Ensure all three CSV files are downloaded and placed in the `data/` directory.
-
-**Import errors**: Verify all required packages are installed using `pip list`.
-
 ## References
 
 [1] van Heusden, R., Larooij, M., Kamps, J. et al. A collection of FAIR Dutch Freedom of Information Act documents. *Sci Data* 12, 795 (2025). https://doi.org/10.1038/s41597-025-05052-2
@@ -129,17 +117,10 @@ Output files include:
 
 ## Citation
 
-If you use this code or analysis in your research, please cite:
-
 ```
-Zuijderwijk, J., Beerepoot, I., Martens, T., Knies, E., Van der Lippe, T., & Reijers, H. A. (2025). Shadows of Transparency: Assessing Government Transparency Using Public Data [Manuscript under review].
+Zuijderwijk, J., Beerepoot, I., Martens, T., Knies, E., Van der Lippe, T., & Reijers, H. A. (in press). Shadows of Transparency: Assessing Government Transparency Using Public Data. EGOV26. Springer.
 ```
 
 ## Contact
 
 Jos Zuijderwijk - `a.j.h.zuijderwijk [at] uu [dot] nl`
-
-
-## Acknowledgments
-
-This work builds on the Woogle dataset created by van Heusden et al. and made available through DANS.
