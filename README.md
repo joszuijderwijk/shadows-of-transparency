@@ -15,7 +15,7 @@ This project implements six transparency anti-patterns to systematically assess 
 4. **Catch-All Exemptions** - Usage of FOIA exemption grounds
 5. **Stale Release** - Response times
 
-<img src="antipatterns.png" alt="Antipatterns" width="25%">
+<img src="antipatterns.png" alt="Antipatterns" width="50%">
 
 ## Dataset
 
