@@ -1,6 +1,6 @@
 # Shadows of Transparency
 
-This repository contains the code and analysis for the paper "Shadows of Transparency: Assessing Government Transparency Using Public Data" (in press)
+This repository contains the code and analysis for the paper "Shadows of Transparency: Signaling Transparency-Impeding Behavior Using Public Data" (in press). Furthermore it contains the interview protocol and the list of Ministry abbreviations used.
 
 The work builds on the Woogle dataset and its accompanying notebook [1], analyzing patterns in Dutch Freedom of Information Act (FOIA/Woo) documents. The dataset is available through DANS [2].
 
@@ -78,7 +78,7 @@ The dataset focuses on passively released documents (category '2i') from Dutch g
 ## Citation
 
 ```
-Zuijderwijk, J., Beerepoot, I., Martens, T., Knies, E., Van der Lippe, T., & Reijers, H. A. (in press). Shadows of Transparency: Assessing Government Transparency Using Public Data. EGOV26. Springer.
+Zuijderwijk, J., Beerepoot, I., Martens, T., Knies, E., Van der Lippe, T., & Reijers, H. A. (in press). Shadows of Transparency: Signaling Transparency-Impeding Behavior Using Public Data. EGOV26. Springer.
 ```
 
 ## Contact
