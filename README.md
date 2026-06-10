@@ -1,6 +1,6 @@
 # Shadows of Transparency
 
-This repository contains the code and analysis for the paper "Shadows of Transparency: Assessing Government Transparency Using Public Data" (preprint)
+This repository contains the code and analysis for the paper "Shadows of Transparency: Assessing Government Transparency Using Public Data" (in press)
 
 The work builds on the Woogle dataset and its accompanying notebook [1], analyzing patterns in Dutch Freedom of Information Act (FOIA/Woo) documents. The dataset is available through DANS [2].
 
@@ -64,49 +64,7 @@ The dataset focuses on passively released documents (category '2i') from Dutch g
      - `woo_documents.csv.gz`
      - `woo_dossiers.csv.gz`
 
-2. **Create a data directory** and place the downloaded files:
-   ```bash
-   mkdir data
-   # Move the downloaded .csv.gz files to the data/ directory
-   ```
-
-3. **Update the data path** (if needed):
-   - Open `SOT.ipynb`
-   - Locate the cell with `DATAFRAME_FOLDER = 'data'`
-   - Update the path if you placed the data files elsewhere
-
-### Running the Analysis
-
-1. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook SOT.ipynb
-   ```
-
-2. **Run the cells sequentially**
-   - Start with the import cell
-   - The dataset loading may take several minutes
-   - Each analysis section can be run independently after loading the data
-
-### Expected Outputs
-
-The notebook generates several visualizations and analyses:
-
-- **General statistics**: Dataset overview (dossiers, documents, pages)
-- **Time-series plots**: Documents and dossiers by year
-- **Anti-pattern analyses**:
-  - Dossier size distributions (local and global percentiles)
-  - FAIRIscore trends by ministry
-  - Redaction rate analysis
-  - Exemption ground usage patterns
-  - Response time analysis
-
-Output files include:
-- `big_small_dossiers.png`
-- `big_small_dossiers_global.png`
-- `fairscores_ministry_over_time.png`
-- `redaction_ministry_over_time.png`
-- `exemptions_single_plot.png`
-- `exemptions_ministry_over_time.png`
+2. **Create a data directory** and place the downloaded files.
 
 ## References
 
