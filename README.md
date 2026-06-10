@@ -8,12 +8,14 @@ The work builds on the Woogle dataset and its accompanying notebook [1], analyzi
 
 This project implements six transparency anti-patterns to systematically assess government transparency practices:
 
-1. **Narrow Reading** - Analyzing unusually small dossier sizes
-2. **Overbroad Reading** - Analyzing unusually big dossier sizes
-2. **Obstructive Formatting** - Evaluating document accessibility using FAIRIscore
-3. **Excessive Redaction** - Measuring redaction rates across documents
-4. **Catch-All Exemptions** - Tracking usage of FOIA exemption grounds
-5. **Stale Release** - Analyzing response times
+1. **Narrow Reading** - Unusually small dossier sizes
+2. **Overbroad Reading** - Unusually big dossier sizes
+2. **Obstructive Formatting** - Document accessibility
+3. **Excessive Redaction** - Redaction rates across documents
+4. **Catch-All Exemptions** - Usage of FOIA exemption grounds
+5. **Stale Release** - Response times
+
+<img src="antipatterns.png" alt="Antipatterns" width="25%">
 
 ## Dataset
 
