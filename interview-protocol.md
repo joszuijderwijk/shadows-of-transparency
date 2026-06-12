@@ -1,4 +1,4 @@
-# Expert Interview Protocol — Evaluation
+# Expert Interview Protocol
 
 **Study:** *Shadows of Transparency: Signaling Transparency-Impeding Behavior Using Public Data*
 **Duration:** ± 60 minutes
@@ -23,7 +23,7 @@
 
 ---
 
-## Framework — Presentation (± 10 min)
+## Presentation (± 10 min)
 
 *[Show the overview of the three categories and nine patterns, with tables and examples.]*
 
