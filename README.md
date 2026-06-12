@@ -4,6 +4,8 @@ This repository contains the code and analysis for the paper "Shadows of Transpa
 
 The work builds on the Woogle dataset and its accompanying notebook [1], analyzing patterns in Dutch Freedom of Information Act (FOIA/Woo) documents. The dataset is available through DANS [2].
 
+This repository also features the [interview protocol](interview-protocol.md) and a list of used [abbreviations](abbreviations.md).
+
 ## Overview
 
 This project implements six transparency anti-patterns to systematically assess government transparency practices:
