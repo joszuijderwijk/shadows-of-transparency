@@ -5,8 +5,8 @@
 **Format:** Semi-structured interview
 **Versions:** Journalists · Researchers (transparency expert) · Researchers (data specialist) · Civil servants
 
-> *Note.* This is an English translation of the original Dutch instrument used in the
-> study. In the paper these behaviors are called *behavioral patterns*; the instrument
+> *Note.* This is an English translation of the original Dutch protocol used in the
+> study. In the paper these behaviors are called *behavioral patterns*; the protocol
 > below uses the equivalent term *anti-patterns*. "Woo" refers to the current Dutch FOI
 > Act (Wet open overheid).
 
@@ -80,7 +80,7 @@
 ### Application and future (10 min)
 10. How could you, as a journalist, use these indicators or findings in your work?
     - Would they influence your investigative priorities?
-11. Suppose a particular agency shows striking scores — how would you investigate this further?
+11. Suppose a particular agency shows striking scores, how would you investigate this further?
     - What additional information would you seek?
 12. What information or data would make these analyses more reliable or useful?
 13. How do you see the future of data-driven transparency research?
