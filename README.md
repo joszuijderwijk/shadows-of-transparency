@@ -1,5 +1,7 @@
 # Shadows of Transparency
 
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2606.14377-blue)](https://doi.org/10.48550/arXiv.2606.14377)
+
 This repository contains the code and analysis for the paper "Shadows of Transparency: Signaling Transparency-Impeding Behavior Using Public Data" (in press). Furthermore it contains the interview protocol and the list of Ministry abbreviations used.
 
 The work builds on the Woogle dataset and its accompanying notebook [1], analyzing patterns in Dutch Freedom of Information Act (FOIA/Woo) documents. The dataset is available through DANS [2].
@@ -10,12 +12,12 @@ This repository also features the [interview protocol](interview-protocol.md) an
 
 This project implements six transparency anti-patterns to systematically assess government transparency practices:
 
-1. **Narrow Reading** - Unusually small dossier sizes
-2. **Overbroad Reading** - Unusually big dossier sizes
-2. **Obstructive Formatting** - Document accessibility
-3. **Excessive Redaction** - Redaction rates across documents
-4. **Catch-All Exemptions** - Usage of FOIA exemption grounds
-5. **Stale Release** - Response times
+1. **Narrow Reading**: Interpreting requests restrictively to reduce what must be disclosed
+2. **Overbroad Reading**: Interpreting requests so expansively that key information is buried in volume
+2. **Obstructive Formatting** - Releasing information in forms that hinder search and analysis
+3. **Excessive Redaction** - Obscuring text so extensively that disclosed records lose meaning and context
+4. **Catch-All Exemptions** - Repeated reliance on broad exemption grounds beyond their intended scope
+5. **Stale Release** - Delaying disclosure long enough to reduce its value or impact
 
 <img src="antipatterns.png" alt="Antipatterns" width="50%">
 
